@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-
+<html>
 <head>
 	<title>PHP CALSIO</title>
     <style>
