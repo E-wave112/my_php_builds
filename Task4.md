@@ -1,11 +1,11 @@
 Cookie variables are the key values in a cookie like dictionary that acts as placeholder for our cookie data.
-And as we are all know cookies are  sensitive data generated from the server and being passed to the client (browser) for some extra validation and confirmation of
+And as we are all know cookies are client-side key-value stores for storing certain sensitive data generated from the server and being passed to the client (browser) for some extra validation and confirmation of
 some working functionalities
 
 
 Session Variables are values used to store session data while a user is on a particular website
 
-And as we all know, session are storage units for storing sensitive user data generated and stored in the server.
+And as we all know, session are server-side storage units for storing sensitive user data.
 
 
 The difference between cookie and session storage is that the data in sessions storage expires the moment a user closes the browser or the tab of 
